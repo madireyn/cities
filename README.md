@@ -1,1 +1,4 @@
 # cities
+- Berlin
+- Montevideo
+- Bangkok
